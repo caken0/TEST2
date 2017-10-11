@@ -7,6 +7,7 @@
         path=%java_home%\bin;...
         tomcat需要这个参数
       3.java -version
+      	电视剧
         查看jdk版本以及jdk是32bit还是64bit
         eclipse要求:
           32Bit的Eclipse必须对应32Bit的JDK
